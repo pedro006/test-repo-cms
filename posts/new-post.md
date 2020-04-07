@@ -1,4 +1,10 @@
 ---
 title: New Post
 ---
-Some text
+**Some text**
+
+*This is some text*
+
+***
+***
+***
